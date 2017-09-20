@@ -1,0 +1,6 @@
+- Purpose: To build a Python-based game. Game rule: User choose approprate clubs to make the ball into the hole
+
+For each swing, the player chooses a club and then the program generates the distance hit for each shot, updating the distance to the hole accordingly. Play proceeds until the ball is in the
+hole (distance to the hole is zero), and then the program informs the user of their score.
+
+- Techology use: Python 3
